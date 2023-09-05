@@ -1,0 +1,4 @@
+./images/new_name_10.jpg
+./images/new_name_0.jpg
+./images/new_name_5.jpg
+./images/new_name_8.jpg
